@@ -1,16 +1,16 @@
-## Hi there 👋
+## 👋 About Me  
 
-<!--
-**Fatema-tuj-Jahura/Fatema-Tuj-Jahura** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I'm **Fatema Tuj Jahura**!  
+🎓 Currently pursuing a **Master’s in Computer Science & Engineering** at BRAC University.  
+💡 Passionate about **Machine Learning, Data Analysis, and Full-Stack Web Development**.  
+🚀 Always exploring new technologies and building innovative projects.  
 
-Here are some ideas to get you started:
+### 🛠️ Skills  
+- **Programming & Development:** JavaScript, Node.js, React, HTML, CSS, Python  
+- **Areas of Interest:** Machine Learning, Data Analysis, Web Development  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📊 GitHub Participation  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=your-github-username&theme=radical)  
+
+📫 Let's connect and collaborate on exciting projects!  
